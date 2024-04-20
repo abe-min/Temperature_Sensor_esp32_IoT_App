@@ -1016,3 +1016,35 @@
 71	321	7311802299617459	C:/Users/minda/Documents/UdemyCourses/IoT Application Development with the ESP32/workspace/pilot_esp32/build/bootloader/bootloader.map	c8dbb73e1a4aa730
 322	6033	0	CMakeFiles/flash	f90820501b1125f
 322	6033	0	C:/Users/minda/Documents/UdemyCourses/IoT Application Development with the ESP32/workspace/pilot_esp32/build/CMakeFiles/flash	f90820501b1125f
+223	428	0	esp-idf/esptool_py/CMakeFiles/app_check_size	36897e426f1629a0
+223	428	0	C:/Users/minda/Documents/UdemyCourses/IoT Application Development with the ESP32/workspace/pilot_esp32/build/esp-idf/esptool_py/CMakeFiles/app_check_size	36897e426f1629a0
+210	480	7311802299617459	bootloader-prefix/src/bootloader-stamp/bootloader-build	c8dbb73e1a4aa730
+210	480	7311802299617459	bootloader/bootloader.elf	c8dbb73e1a4aa730
+210	480	7311802299617459	bootloader/bootloader.bin	c8dbb73e1a4aa730
+210	480	7311802299617459	bootloader/bootloader.map	c8dbb73e1a4aa730
+210	480	7311802299617459	C:/Users/minda/Documents/UdemyCourses/IoT Application Development with the ESP32/workspace/pilot_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	c8dbb73e1a4aa730
+210	480	7311802299617459	C:/Users/minda/Documents/UdemyCourses/IoT Application Development with the ESP32/workspace/pilot_esp32/build/bootloader/bootloader.elf	c8dbb73e1a4aa730
+210	480	7311802299617459	C:/Users/minda/Documents/UdemyCourses/IoT Application Development with the ESP32/workspace/pilot_esp32/build/bootloader/bootloader.bin	c8dbb73e1a4aa730
+210	480	7311802299617459	C:/Users/minda/Documents/UdemyCourses/IoT Application Development with the ESP32/workspace/pilot_esp32/build/bootloader/bootloader.map	c8dbb73e1a4aa730
+82	238	0	esp-idf/esptool_py/CMakeFiles/app_check_size	36897e426f1629a0
+82	238	0	C:/Users/minda/Documents/UdemyCourses/IoT Application Development with the ESP32/workspace/pilot_esp32/build/esp-idf/esptool_py/CMakeFiles/app_check_size	36897e426f1629a0
+70	332	7311802299617459	bootloader-prefix/src/bootloader-stamp/bootloader-build	c8dbb73e1a4aa730
+70	332	7311802299617459	bootloader/bootloader.elf	c8dbb73e1a4aa730
+70	332	7311802299617459	bootloader/bootloader.bin	c8dbb73e1a4aa730
+70	332	7311802299617459	bootloader/bootloader.map	c8dbb73e1a4aa730
+70	332	7311802299617459	C:/Users/minda/Documents/UdemyCourses/IoT Application Development with the ESP32/workspace/pilot_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	c8dbb73e1a4aa730
+70	332	7311802299617459	C:/Users/minda/Documents/UdemyCourses/IoT Application Development with the ESP32/workspace/pilot_esp32/build/bootloader/bootloader.elf	c8dbb73e1a4aa730
+70	332	7311802299617459	C:/Users/minda/Documents/UdemyCourses/IoT Application Development with the ESP32/workspace/pilot_esp32/build/bootloader/bootloader.bin	c8dbb73e1a4aa730
+70	332	7311802299617459	C:/Users/minda/Documents/UdemyCourses/IoT Application Development with the ESP32/workspace/pilot_esp32/build/bootloader/bootloader.map	c8dbb73e1a4aa730
+81	238	0	esp-idf/esptool_py/CMakeFiles/app_check_size	36897e426f1629a0
+81	238	0	C:/Users/minda/Documents/UdemyCourses/IoT Application Development with the ESP32/workspace/pilot_esp32/build/esp-idf/esptool_py/CMakeFiles/app_check_size	36897e426f1629a0
+71	312	7311802299617459	bootloader-prefix/src/bootloader-stamp/bootloader-build	c8dbb73e1a4aa730
+71	312	7311802299617459	bootloader/bootloader.elf	c8dbb73e1a4aa730
+71	312	7311802299617459	bootloader/bootloader.bin	c8dbb73e1a4aa730
+71	312	7311802299617459	bootloader/bootloader.map	c8dbb73e1a4aa730
+71	312	7311802299617459	C:/Users/minda/Documents/UdemyCourses/IoT Application Development with the ESP32/workspace/pilot_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	c8dbb73e1a4aa730
+71	312	7311802299617459	C:/Users/minda/Documents/UdemyCourses/IoT Application Development with the ESP32/workspace/pilot_esp32/build/bootloader/bootloader.elf	c8dbb73e1a4aa730
+71	312	7311802299617459	C:/Users/minda/Documents/UdemyCourses/IoT Application Development with the ESP32/workspace/pilot_esp32/build/bootloader/bootloader.bin	c8dbb73e1a4aa730
+71	312	7311802299617459	C:/Users/minda/Documents/UdemyCourses/IoT Application Development with the ESP32/workspace/pilot_esp32/build/bootloader/bootloader.map	c8dbb73e1a4aa730
+313	5959	0	CMakeFiles/flash	f90820501b1125f
+313	5959	0	C:/Users/minda/Documents/UdemyCourses/IoT Application Development with the ESP32/workspace/pilot_esp32/build/CMakeFiles/flash	f90820501b1125f
